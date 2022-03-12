@@ -1,0 +1,30 @@
+.mapImage{
+  width: 39%;
+  float: left;
+}
+
+.mapImage path{
+  stroke: white;
+  stroke-width: 0.20px;
+}
+.mapImage path:hover{
+  fill: white;
+}
+
+.description{
+  width: 40%;
+  float: right;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+ color: white;
+ text-anchor: end;
+}
+
+#description{
+  align-items: flex-end;
+}
